@@ -218,9 +218,20 @@ Question: Who discovered gravity?
 Expected: Isaac Newton
 Predicted: Isaac Newton
 
-Average Exact Match: 0.78
-Average ROUGE-L: 0.65
-Average METEOR: 0.58
+
+Question: Who suggested Lincoln grow a beard?
+Expected: 11-year-old Grace Bedell
+Predicted: Grace Bedell
+
+Question: What did The Legal Tender Act of 1862 establish?
+Expected: The United States Note, the first paper currency in United States history
+Predicted: United States Note
+
+Question: What is Finland's economy like?
+Expected: A highly industrialised, free-market economy
+Predicted: Highly industrialised, free-market economy with a per capita output equal to that of other western economies such as Sweden, the UK, France and Germany. The largest sector of the economy is services at 65.7 percent, followed by manufacturing and refining at 31.4 percent. Primary production is low at 2.9 percent, reflecting the fact that Finland is a resource-poor country. With respect to foreign trade, the key economic sector is manufacturing.
+
+
 ```
 
 ---
