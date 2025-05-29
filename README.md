@@ -172,12 +172,7 @@ pip install langchain transformers datasets sentence-transformers faiss-cpu eval
 
 ---
 
-
-### Command-Line Execution
-
-```bash
-python retrival_augumented_generation.py
-```
+## Running project
 
 This will:
 - Load documents and split them semantically.
